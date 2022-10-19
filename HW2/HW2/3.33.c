@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int m5()
+int main()
 {
     int i = 1, j = 1;
     int n = 0, m = 0;

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int m2() {
+int main() {
     float sales, commission, earnings;
 
     while (true) {

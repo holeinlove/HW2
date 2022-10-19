@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int m1() {
+int main() {
     int accountNumber;
     float beginningBalance, totalCharges, totalCredits, creditLimit, accountBalance;
 

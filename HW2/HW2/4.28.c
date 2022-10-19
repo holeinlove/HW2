@@ -1,5 +1,5 @@
 #include <stdio.h>
-int m9()
+int main()
 {
 	/**
 	 * menu

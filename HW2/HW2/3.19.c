@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int m3() {
+int main() {
 
 	float loan_principal, rate, interest;
 	int days;

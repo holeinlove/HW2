@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int m8(void)
+int main(void)
 {
     int side1, side2, hypotenuse = 0;
     for (side1 = 1; side1 < 500; side1++)

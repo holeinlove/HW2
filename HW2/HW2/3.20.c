@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int m4() {
+int main() {
 
 	float hours, rate, salary, overtime, overtimepay;
 	while (true)

@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include<math.h>
 
-int m6(){
+int main(){
 	float principal = 5000;
 	float x, sum, rate;
 	int i;
